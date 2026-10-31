@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Deavyansh dg@gmail.com"]
 description = "A Solana NFT marketplace for trading eSports skills"
 license = "MIT"
-repository = "https://github.com/devgprime/SkillSwap-Solana-Dapp"
+repository = "https://github.com/deavgprime/SkillSwap-Solana-Dapp"
 
 [lib]
 crate-type = ["cdylib", "lib"]

@@ -67,7 +67,7 @@ Before running the project, ensure you have the following installed:
 1.  Clone the repository:**
 
    git clone https://github.com/deavgprime/SkillSwap-Solana-Dapp.git
-   cd skillswap
+   cd SkillSwap-Solana-Dapp
 
 2.  Install Rust toolchain (if not already installed)
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
